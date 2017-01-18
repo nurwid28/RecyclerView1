@@ -27,7 +27,7 @@ Nama : Nur Widya Astutik
 Kelas : XI RPL 3 
 
 
-No.absen : 25 
+No.Urut : 25 
 
 
 NIS : 4794/1513.070 
