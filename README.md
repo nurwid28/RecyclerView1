@@ -3,22 +3,22 @@
 - Judul   : RecyclerView1
 
 
-- ScreenShoots :
+# ScreenShoot Aplikasi :
 
 
-1.
+ScreenShoot 1
 
 
 <img src="https://github.com/nurwid28/RecyclerView1/blob/master/25_XI%20RPL%203_Nur%20Widya%20Astutik_RecyclerView1-a.png">
 
 
-2.
+ScreenShoot 2
 
 
 <img src="https://github.com/nurwid28/RecyclerView1/blob/master/25_XI%20RPL%203_Nur%20Widya%20Astutik_RecyclerView1-b.png">
 
 
-- Identitas :
+# Identitas :
 
 
 Nama : Nur Widya Astutik 
